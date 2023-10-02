@@ -15,8 +15,9 @@ body{
     margin-left: 20px;
 }
 .cover{
-    height: 20px;
-    background-image: url(img/slider.jpg)
+    height: 300px;
+    width: 100%;
+    background-image: url(/image/blackclover.jpg);
 }
 .content h1{
     font-size: 30px;
